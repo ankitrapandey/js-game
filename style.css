@@ -1,0 +1,13 @@
+.content{
+    font-size: 30px;
+    color: rgb(236, 62, 4);
+}
+.newClass{
+    background-color: rgb(7, 56, 218);
+}
+div{
+    background-color: dodgerblue;
+    height: 30vh;
+    width: 30vw;
+    text-align: center;
+}
